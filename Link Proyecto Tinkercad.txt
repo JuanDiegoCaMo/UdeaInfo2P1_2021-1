@@ -1,3 +1,4 @@
-Por ahora en estado de prueba:
-Circuito base: https://www.tinkercad.com/things/1FjYZBaZ6Hv
-Copia 1 (Pruebas) del circuito base: https://www.tinkercad.com/things/gBOCkDBL07V-copy-of-smooth-snicket/editel?sharecode=HfXRjpc0nCn8B4t5eW4msg2K63nAyIlxBe-q3xn1K2Q
+Estado final del circuito (Elección -> Circuito base modificado):
+Circuito base modificado: https://www.tinkercad.com/things/9aCdLomccjv
+Copia 1 (Pruebas) del circuito base: https://www.tinkercad.com/things/c7ycJAG4yvJ
+Copia 1 (Pruebas) del circuito base modificado: https://www.tinkercad.com/things/gJBsAadmTmc-copy-of-proyecto-parcial-i-arduino-74hc595/editel?sharecode=C32LtNfGS1GiWqwvBvb8kv-GxLSCnPTK2fRh8lspSzM
