@@ -1,6 +1,4 @@
-Estado final del circuito:
-https://www.tinkercad.com/things/8aSX1YqpZaQ-copy-of-copy-of-proyecto-parcial-i-arduino-74hc595/editel?sharecode=zBks6U5m4ZKJbG0VeHKCGV5RNhxMEV23asTWwNToPbo
-Otros circuitos:
-Circuito base modificado: https://www.tinkercad.com/things/9aCdLomccjv
-Copia 1 (Pruebas) del circuito base: https://www.tinkercad.com/things/c7ycJAG4yvJ
-Copia 1 (Pruebas) del circuito base modificado: https://www.tinkercad.com/things/gJBsAadmTmc-copy-of-proyecto-parcial-i-arduino-74hc595/editel?sharecode=C32LtNfGS1GiWqwvBvb8kv-GxLSCnPTK2fRh8lspSzM
+Estado final del circuito (Enlace para compartir y el segundo para copiar y modificar):
+https://www.tinkercad.com/things/8aSX1YqpZaQ-copy-of-copy-of-proyecto-parcial-i-arduino-74hc595/editel?sharecode=zBks6U5m4ZKJbG0VeHKCGV5RNhxMEV23asTWwNToPbo&sharecode=zBks6U5m4ZKJbG0VeHKCGV5RNhxMEV23asTWwNToPbo
+https://www.tinkercad.com/things/8aSX1YqpZaQ
+Enlace al video de Youtube:
